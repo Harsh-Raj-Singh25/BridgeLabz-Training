@@ -73,7 +73,7 @@
 * Committed and pushed solutions to the repository.
 *  [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras) 
 ---
-###  Day 24: Built-in Methods & Revision
+###  Day 9 - Built-in Methods & Revision
 **Date:** 24-Dec-2025
 * Solved multiple problems of different topics by using built-in functions.
 * **Revision:** Refactored previous code and practiced logical problem-solving.
