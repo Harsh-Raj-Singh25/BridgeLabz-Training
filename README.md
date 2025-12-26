@@ -22,3 +22,10 @@
 * Committed and pushed solutions to the repository.
 * [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/prerequisites) 
 ---
+###  Day 3 - Programming Elements
+**Date:** 17-Dec-2025
+* **Learning:** Data types (primitive vs. non-primitive), variables, and basic operators in Java.
+* Practiced different data types, variables and operators.
+* Committed and pushed solutions to the repository.
+* [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+---
