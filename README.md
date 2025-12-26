@@ -1,1 +1,14 @@
 # BridgeLabz-Training
+
+## Week 1 : Git & GitHub, Java Programming Fundamentals 
+--- ---
+###  Day 1 - Git & GitHub and Standard Coding Practices 
+**Date:** 15-Dec-2025
+* Installed and configured Git
+* <img width="303" height="309" alt="image" src="https://github.com/user-attachments/assets/4cf2c208-a0dc-44c7-ac0c-4bf45c1b3487" />
+   Created and arranged folders accordingly
+* **Learning:** Learned about Version Control Systems (VCS), initializing repos, staging, committing, and branching strategies.
+* Learned basic Git commands: `init`, `clone`, `add`, `commit`,`push`
+* **Example:** `git push -u origin core-java-practice`
+* Learned basic coding conventions.
+---
