@@ -75,3 +75,12 @@
 * Committed and pushed solutions to the repository.
 *  [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras) 
 ---
+###  Day 3 - Revision & java Scenario-based problems and Leetcode
+**Date:** 24-Dec-2025
+* **Revision:** Refactored previous code and practiced logical problem-solving.
+* Solved two Scenario based problems
+* Learned about the ways to use leetcode efficiently.
+* Committed and pushed solutions to the repository.
+* Scenario based problems: [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+* leetcode:  [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) 
+---
