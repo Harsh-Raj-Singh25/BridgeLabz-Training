@@ -37,3 +37,11 @@
 * Committed and pushed solutions to the repository.
 *  [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow) 
 ---
+###  Day 5 - Arrays
+**Date:** 19-Dec-2025
+* **Learning:** Single and Multi-dimensional arrays. Practiced array manipulation and common algorithms like searching.
+* Learned array declaration, traversal, and operations
+* Solved multiple problems and learned the practical use of arrays.
+* Committed and pushed solutions to the repository.
+*  [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays) 
+---
