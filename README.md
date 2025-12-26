@@ -45,3 +45,12 @@
 * Committed and pushed solutions to the repository.
 *  [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays) 
 ---
+###  Day 6 - Methods
+**Date:** 20-Dec-2025
+* **Learning:** Method declaration, parameter passing, and the importance of the `static` keyword.
+* Implemented methods for different operations.
+* Increased code reusability.
+* Solved basic to advanced problems of methods.
+* Committed and pushed solutions to the repository.
+*  [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods) 
+---
