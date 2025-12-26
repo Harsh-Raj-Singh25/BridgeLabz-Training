@@ -2,8 +2,8 @@
  This repository is a dedicated space where I document my daily progress, code snippets, and conceptual learnings during my training at BridgeLabz.
 ---
 
-## Daily Learning Journal
-
+## Week 1 : Git & GitHub, Java Programming Fundamentals 
+--- ---
 ###  Day 1 - Git & GitHub and Standard Coding Practices 
 **Date:** 15-Dec-2025
 * Installed and configured Git
@@ -56,6 +56,9 @@
 * Committed and pushed solutions to the repository.
 *  [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods) 
 ---
+
+## Week 2 : Java Programming Fundamentals 
+--- ---
 ###  Day 7 - Strings
 **Date:** 22-Dec-2025
 * **Learning:** String immutability, `String` vs `StringBuilder` vs `StringBuffer`, and common String methods.
