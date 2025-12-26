@@ -54,3 +54,14 @@
 * Committed and pushed solutions to the repository.
 *  [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods) 
 ---
+---
+## Week 2 : Java Programming Fundamentals 
+--- ---
+###  Day 1 - Strings
+**Date:** 22-Dec-2025
+* **Learning:** String immutability, `String` vs `StringBuilder` vs `StringBuffer`, and common String methods.
+* Implemented the properties and use cases of Strings.
+* Solved multiple problems and studied concepts of strings.
+* Committed and pushed solutions to the repository.
+*  [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings) 
+---
