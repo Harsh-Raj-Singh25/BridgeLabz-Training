@@ -29,3 +29,11 @@
 * Committed and pushed solutions to the repository.
 * [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 ---
+###  Day 4 - Control Flow
+**Date:** 18-Dec-2025
+* **Learning:** Conditional statements (`if-else`, `switch`) and looping constructs (`for`, `while`, `do-while`).
+* Implemented decision-making programs.
+* Solved multiple problems.
+* Committed and pushed solutions to the repository.
+*  [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow) 
+---
