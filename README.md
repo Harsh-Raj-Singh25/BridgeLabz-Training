@@ -86,3 +86,10 @@
 *  [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) 
 
 ---
+###  Day 4 - Scenario-based questions and leetcode practice
+**Date:** 26-Dec-2025
+* Solved three Scenario based problems
+* Solved leetcode Questions.
+* Committed and pushed solutions to the repository.
+*  [Scenario-Based ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+*  [Leetcode  ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
