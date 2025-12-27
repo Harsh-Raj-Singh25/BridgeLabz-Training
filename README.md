@@ -84,3 +84,15 @@
 * Scenario based problems: [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 * leetcode:  [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) 
 ---
+###  Day 4 - Oops Introduction and Problem Solving + Scenario-based questions and leetcode practice
+**Date:** 26-Dec-2025
+* Solved three Scenario based problems
+* Solved leetcode Questions.
+* Studied basic concepts of OOPs.
+* Practiced entry level problems of Class and Objects.
+* Made a repository named Java-oops-Practice for OOPs.
+* Committed and pushed solutions to the repository.
+* [Scenario-Based ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+* [Leetcode  ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+* [OOPs ]([https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject))
+---
