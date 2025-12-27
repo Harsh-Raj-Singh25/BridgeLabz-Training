@@ -96,3 +96,11 @@
 * [Leetcode  ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 * [OOPs ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
 ---
+###  Day 5 - Constructors and Practice problems
+**Date:** 27-Dec-2025
+* Started the day with the revison of core java concepts. 
+* Studied concepts of OOPs Constructors.
+* Learnt about different types of Constructors.
+* Practiced entry level problems of constructors.
+* Committed and pushed solutions to the repository.
+* View Code : [Constructors ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/level1)
