@@ -19,8 +19,10 @@ public class Book {
 		this.price=price;
 	}
 	
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	void displaydetails() {
+		System.out.println("Book title : "+ title);
+		System.out.println("Book author: "+author);
+		System.out.println("Book price: "+ price);
 	}
-
+	
 }
