@@ -1,7 +1,7 @@
 # BridgeLabz-Training
 ## OOPs Practice
 --- ---
-## Week 1 : Git setup and OOps Introduction
+## Week 2 : Git setup and OOP Introduction
 --- ---
 ###  Day 1 - Oops Introduction and Problem Solving
 **Date:** 26-Dec-2025
