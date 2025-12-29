@@ -84,7 +84,6 @@
 * Learned about the ways to use leetcode efficiently.
 * Committed and pushed solutions to the repository.
 *  [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) 
-
 ---
 ###  Day 4 - Scenario-based questions and leetcode practice
 **Date:** 26-Dec-2025
@@ -93,3 +92,16 @@
 * Committed and pushed solutions to the repository.
 *  [Scenario-Based ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 *  [Leetcode  ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+---
+
+## Week 3 : Scenario-Based and Leetcode Questions Practice 
+--- ---
+###  Day 1 - Scenario-Based Questions and Weekly Review
+**Date:** 29-Dec-2025
+* Started the day with a mentor review session.
+* Learnt about the areas of improvement.
+* Solved 5 Scenario-Based Problems.
+* Learned about how to make our code more interactive.
+* Committed and pushed solutions to the repository.
+* [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) 
+---
