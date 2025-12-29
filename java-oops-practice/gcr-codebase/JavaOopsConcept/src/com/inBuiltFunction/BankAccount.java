@@ -1,4 +1,4 @@
-package inBuiltFunction;
+package com.inBuiltFunction;
 
 public class BankAccount {
 	  
