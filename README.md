@@ -104,3 +104,19 @@
 * Practiced entry level problems of constructors.
 * Committed and pushed solutions to the repository.
 * View Code : [Constructors ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/level1)
+---
+---
+## Week 3 : OOP Practice & Scenario-Based and LeetCode Questions Practice 
+--- ---
+###  Day 1 - Scenario-Based Questions and Weekly Review & InBuilt methods in OOP
+**Date:** 29-Dec-2025
+* Started the day with a mentor review session.
+* Learnt about the areas of improvement.
+* Solved 5 Scenario-Based Problems.
+* Learned about how to make our code more interactive.
+* Learned about this, static, final key words and instance of operator Content.
+* Practiced problems using inbuilt methods. 
+* Committed and pushed solutions to the repository.
+* Code: [Scenario_Based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+* Code: [OOP Practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inBuiltFunction) 
+---
