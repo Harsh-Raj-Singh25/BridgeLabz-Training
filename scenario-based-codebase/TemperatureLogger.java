@@ -14,7 +14,7 @@ public class TemperatureLogger{
 		// initializing a array that'll store the temperatures over 7 days:
 		double [] temperature=new double[days];
 		System.out.println("----WELCOME TO THE DAILY TEMPERATURE LOGGER----");
-		// take inpit from user:
+		// take input from user:
 		for(int i=0;i<days;i++){
 			System.out.print(" Enter the temperature in Celsius for day "+(i+1)+" : ");
 			temperature[i]=sc.nextDouble();
