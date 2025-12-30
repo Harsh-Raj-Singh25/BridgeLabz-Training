@@ -3,7 +3,6 @@ Simulate a basic ticket booking system.
 ● Show menu with switch
 ● Allow multiple bookings using while-loop.
 ● Stop booking once seats reach zero (break).
-public class TrainReservationQueue{
 */	
 import java.util.*;
 public class TrainReservationSystem{
@@ -47,13 +46,14 @@ public class TrainReservationSystem{
 	public static void main(String [] args){
 		Scanner sc=new Scanner(System.in);
 		boolean booking=true;
-		
+		// running a while loop to display the system until user wants to exit
 		while(booking){
 			System.out.println();
 			System.out.println("--Welcome to the Modern Railway Ticketing System--");
 			displayMenu();
 			System.out.print("Enter your choice : ");
 			int choice=sc.nextInt();
+			// switch case to check the choices and implement methods.
 			switch(choice){
 				case 1:
 					bookTicket();
