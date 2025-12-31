@@ -12,7 +12,7 @@ public class Student {
 	}
 	
 	public int modifyCgpa() {
-		CGPA=cgpa*45;
+		CGPA=CGPA*45;
 		return CGPA;
 	}
 //	public getCGPA() {
