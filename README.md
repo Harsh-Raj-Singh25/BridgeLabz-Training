@@ -120,3 +120,24 @@
 * Code: [Scenario_Based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 * Code: [OOP Practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inBuiltFunction) 
 ---
+###  Day 2 - Scenario-Based Questions Practice & Object Modeling & Class, Object and Sequenece Diagram.
+**Date:** 30-Dec-2025
+* Solved 5 Scenario-Based Problems.
+* Made some real world applications.
+* Learnt how to model relations between objects and classes.
+* Made object, class, and sequence diagrams.
+* Practiced Class, Object and Sequenece Diagrams
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario_Based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+* View Code : [OOP Practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectModeling)
+---
+###  Day 3 - Scenario-Based Questions Practice & Inheritance
+**Date:** 31-Dec-2025
+* Solved 5 Scenario-Based Problems.
+* Made some real games and utility applications.
+* Learnt how to inherit parent class attributes and methods in child classes.
+* Practiced different types of Inheritance such as: Single-level, Multilevel, Hierarchical Inheritance.
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-Based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+* View Code : [Inheritance](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/Inheritance)
+---
