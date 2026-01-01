@@ -32,3 +32,13 @@
 * Committed and pushed solutions to the repository.
 * [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inBuiltFunction) 
 ---
+###  Day 2 - Object Modeling & Class, Object and Sequenece Diagram.
+**Date:** 30-Dec-2025
+* Learnt about Object Modeling.
+* Learnt how to model relations between objects and classes.
+* Made object, class, and sequence diagrams.
+* Practiced gcr practice questions of object modeling.
+* Practiced Class, Object and Sequenece Diagrams.
+* Committed and pushed solutions to the repository.
+* [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectModeling)
+---
