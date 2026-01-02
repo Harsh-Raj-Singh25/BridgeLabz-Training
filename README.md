@@ -42,3 +42,16 @@
 * Committed and pushed solutions to the repository.
 * [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectModeling)
 ---
+###  Day 3 - Inheritance
+**Date:** 31-Dec-2025
+* Studied Inheritance.
+* Learnt how to inherit parent class attributes and methods in child classes.
+* Practiced different types of Inheritance such as: Single-level, Multilevel, Hierarchical Inheritance.
+* Mastered different Features and uses of Inheritance such as :
+- Method Overriding.
+- Constructor Inheritance in Java.
+- Polymorphism and Inheritance relation.
+- Access Modifiers and Inheritance. 
+* Committed and pushed solutions to the repository.
+* View Code : [Inheritance](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/Inheritance)
+---
