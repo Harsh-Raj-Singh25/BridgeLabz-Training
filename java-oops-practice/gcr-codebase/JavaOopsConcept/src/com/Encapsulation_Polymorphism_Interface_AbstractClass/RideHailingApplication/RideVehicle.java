@@ -12,6 +12,17 @@ abstract class RideVehicle {
 		this.driverName = driver;
 		this.ratePerKm = rate;
 	}
+	
+
+	public String getDriverName() {
+		return driverName;
+	}
+
+
+	public void setDriverName(String driverName) {
+		this.driverName = driverName;
+	}
+
 
 	public double getRate() {
 		return ratePerKm;
