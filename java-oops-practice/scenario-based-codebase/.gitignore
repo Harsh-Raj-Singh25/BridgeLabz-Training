@@ -4,6 +4,8 @@
 .settings/
 .classpath/
 .project
+.classpath
+module-info.java
 
 # Java build output
 bin/
