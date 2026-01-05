@@ -11,7 +11,7 @@ public class Main {
 		
 		//
 		list.display();
-		list.removetask("s-1");
+		list.removetask("s-2");
 		list.viewAndMove();
 		list.findTask(01);
 		

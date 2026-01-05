@@ -45,7 +45,7 @@ public class TaskSchedulerList {
 //			temp=temp.next;
 //		}
 		do {
-			if(head.taskID==Id) {
+			if(temp.taskID==Id) {
 				if(temp==head & temp==tail) {
 					head=tail=null;
 				}
