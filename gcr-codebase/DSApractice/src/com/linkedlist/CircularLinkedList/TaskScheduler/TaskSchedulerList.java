@@ -34,16 +34,6 @@ public class TaskSchedulerList {
 		if(head==null) return;
 		TaskNode temp=head;
 		TaskNode prev=tail;
-//		while(temp.next!=head) {
-//			if(temp.next.taskID.equalsIgnoreCase(Id)) {
-//				temp.next=temp.next.next;
-//				System.out.println("Item removed");
-//				return;
-//			}else {
-//				System.out.println("item not found");
-//			}
-//			temp=temp.next;
-//		}
 		do {
 			if(temp.taskID==Id) {
 				if(temp==head & temp==tail) {
