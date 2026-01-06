@@ -16,3 +16,5 @@ target/
 Thumbs.db
 
 module-info.java
+
+/.class
