@@ -151,10 +151,34 @@
 * Committed and pushed solutions to the repository.
 * View Code : [ Encapsulation, Polymorphism, Interface and Abstract Class](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/Encapsulation_Polymorphism_Interface_AbstractClass)
 ---
-###  Day 5 -  OOPS Scenario-Based Questions
+###  Day 5 - DSA Basics & OOPs Scenario-Based Questions 
 **Date:** 02-Jan-2026
 * Solved 5 Scenario-Based Problems.
-* Made some real world applications. 
+* Made some real world applications.
+* Introduction to DSA roadmap and topics to be covered.
+* Learnt basics of DSA.
+* Studied Linked List and its types: Circular, singly and Doubly.
+* Practiced questions of Linked List.
 * Committed and pushed solutions to the repository.
-* View Code : [Scenario-based OOPS](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
+* View Code : [Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
+* View Code : [Linked List](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSApractice/src/com/linkedlist) 
+---
+###  Day 6 -  DSA (Stack, Queue and hashmaps) & OOPs Scenario-Based Questions
+**Date:** 03-Jan-2026
+* Solved 2 Scenario-Based Problems.
+* Made some real world applications like cabbyGo and MyBank.
+* Learnt how to use oops concepts in real world scenarios.
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
+---
+--- ---
+## Week 4 : DSA practice & OOPs real world implementation.
+--- ---
+###  Day 1 -  Scenario-Based Questions
+**Date:** 05-Jan-2026
+* Solved 2 Scenario-Based Problems.
+* Made some real world applications like CampusConnect and SwiftCart.
+* Learnt how to use oops concepts in real world scenarios.
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
 ---
