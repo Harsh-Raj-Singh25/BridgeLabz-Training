@@ -141,3 +141,20 @@
 * View Code : [Scenario-Based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 * View Code : [Inheritance](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/Inheritance)
 ---
+###  Day 4 - Encapsulation, Polymorphism, Interface and Abstract Class
+**Date:** 01-Jan-2026
+* Studied  Encapsulation, Polymorphism, Interface and Abstract Class
+* Studied about the uses and important features on Oops Concepts.
+* Studied the Abstract classes, abstract methods, concrete methods, interfaces and their significance.
+* Learnt how class and interface denote the flow of a program. 
+* Solved questions and made applications showinmg the implementation of  Encapsulation, Polymorphism, Interface and Abstract Class. 
+* Committed and pushed solutions to the repository.
+* View Code : [ Encapsulation, Polymorphism, Interface and Abstract Class](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/Encapsulation_Polymorphism_Interface_AbstractClass)
+---
+###  Day 5 -  OOPS Scenario-Based Questions
+**Date:** 02-Jan-2026
+* Solved 5 Scenario-Based Problems.
+* Made some real world applications. 
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-based OOPS](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
+---
