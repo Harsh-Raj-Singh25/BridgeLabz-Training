@@ -87,3 +87,12 @@
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
 ---
+###  Day 2 -  Scenario-Based Questions
+**Date:** 06-Jan-2026
+* Solved 4 Scenario-Based Problems.
+* Made some real world applications and practiced array like implementation of Classes.
+* Learnt how to model oops concepts in real world scenarios.
+* Used real world attributes and functionalities and behaviors of entities.
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
+---
