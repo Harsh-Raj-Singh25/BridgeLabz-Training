@@ -121,3 +121,11 @@
 * Committed and pushed solutions to the repository.
 * [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) 
 ---
+###  Day 4 - LeetCode Questions Practice
+**Date:** 01-Jan-2026
+* Solved leetcode Questions.
+* Learnt how to clear test cases and write optimistic code.
+* Committed and pushed solutions to the repository.
+* [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) 
+---
+
