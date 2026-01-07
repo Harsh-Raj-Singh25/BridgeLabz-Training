@@ -134,4 +134,10 @@
 * Committed and pushed solutions to the repository.
 * [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) 
 ---
-
+###  Day 6 - LeetCode Questions Practice
+**Date:** 03-Jan-2026
+* Solved leetcode Questions.
+* Studied complex looping and logic building problems.
+* Committed and pushed solutions to the repository.
+* [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) 
+---
