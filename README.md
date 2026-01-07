@@ -113,3 +113,11 @@
 * Committed and pushed solutions to the repository.
 * [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) 
 ---
+###  Day 3 - Scenario-Based Questions Practice
+**Date:** 31-Dec-2025
+* Solved 5 Scenario-Based Problems.
+* Made some real games and utility applications.
+* Modelled looping conditions in real world scenarios.
+* Committed and pushed solutions to the repository.
+* [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) 
+---
