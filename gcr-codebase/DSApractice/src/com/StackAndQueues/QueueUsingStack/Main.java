@@ -9,7 +9,6 @@ public class Main {
         q.enqueue(20);
         q.enqueue(25);
         q.enqueue(30);
-
         System.out.println(q.dequeue());
     }
 
