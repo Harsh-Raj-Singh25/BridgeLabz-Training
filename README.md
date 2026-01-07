@@ -93,6 +93,12 @@
 *  [Scenario-Based ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 *  [Leetcode  ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 ---
+###  Day 5 - Revision Day
+**Date:** 27-Dec-2025
+* Started the day with the revison of core java concepts.
+* Revised and prepared for the review.
+* Solved multiple small logical problems using core-java-concepts.
+---
 
 ## Week 3 : Scenario-Based and Leetcode Questions Practice 
 --- ---
