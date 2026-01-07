@@ -96,3 +96,11 @@
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
 ---
+###  Day 3 -  Scenario-Based Questions
+**Date:** 07-Jan-2026
+* Solved 3 Scenario-Based Problems.
+* Solved some real world problems by implementing OOPs concepts.
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
+---
+
