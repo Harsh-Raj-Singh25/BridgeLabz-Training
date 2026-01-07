@@ -128,4 +128,10 @@
 * Committed and pushed solutions to the repository.
 * [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) 
 ---
+###  Day 5 - LeetCode Questions Practice
+**Date:** 02-Jan-2026
+* Solved  leetcode Questions.
+* Committed and pushed solutions to the repository.
+* [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) 
+---
 
