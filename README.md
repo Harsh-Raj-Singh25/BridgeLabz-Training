@@ -28,11 +28,17 @@
 --- ---
 ###  Day 1 -  Sorting Algorithms.
 **Date:** 05-Jan-2026
-* Studied vaarious sorting algorithms and their significance.
+* Studied various sorting algorithms and their significance.
 * Studied the complexities of different techniques and their use cases.
 * Major Algorithms studied: Bubble Sort, Insertion Sort, Merge Sort, Quick Sort
 * Studied the application and implementation.
 * Solved practice Questions.
 * Committed and pushed solutions to the repository.
 * View Code : [Sorting](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSApractice/src/com/Sorting)
+---
+###  Day 2 -  Searching Algorithms
+**Date:** 06-Jan-2026
+* Studied Searching Algorithms : Linear & Binary Search.
+*  Studied various important topics such as :
+  StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
 
