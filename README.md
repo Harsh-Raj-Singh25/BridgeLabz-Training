@@ -1,4 +1,12 @@
 # BridgeLabz-Training
+* A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
+* This repository documents my learning journey at BridgeLabz, spanning from December 15, 2025 to present. The training is organized into structured branches covering different aspects of Java development.
+---
+## Repository Branches:
+* ### [Core-java-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice)
+* ### [java-oops-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice)
+* ### [dsa-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice)
+---
 
 ## Week 1 : Git & GitHub, Java Programming Fundamentals 
 --- ---
