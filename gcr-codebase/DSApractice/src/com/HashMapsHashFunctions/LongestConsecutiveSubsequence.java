@@ -7,7 +7,7 @@ public class LongestConsecutiveSubsequence {
     public static int longestConsecutive(int[] nums) {
         if (nums == null || nums.length == 0) return 0;
 
-        // Step 1: Initialize HashMap (Number -> IsVisited)
+        // Initialize HashMap (Number -> IsVisited)
         Map<Integer, Boolean> map = new HashMap<>();
         for (int num : nums) {
             map.put(num, false);
@@ -15,7 +15,7 @@ public class LongestConsecutiveSubsequence {
 
         int longestStreak = 0;
 
-        // Step 2: Iterate through the array
+        // Iterate through the array
         for (int num : nums) {
             // Only process if we haven't visited this number yet
             if (map.containsKey(num) && !map.get(num)) {
@@ -50,6 +50,6 @@ public class LongestConsecutiveSubsequence {
     public static void main(String[] args) {
         int[] arr = {10, 5, 20, 1, 3, 2, 4};
         System.out.println("Longest Sequence Length: " + longestConsecutive(arr));
-        // Output: 5 (1, 2, 3, 4, 5)
+
     }
 }
