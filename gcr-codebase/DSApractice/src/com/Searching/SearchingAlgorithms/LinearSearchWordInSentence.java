@@ -24,7 +24,7 @@ public class LinearSearchWordInSentence {
 		String[] sentences = { "Java is a powerful language", "Linear search is simple",
 				"Data structures are important", "Searching algorithms are useful" };
 
-		String word = "search";
+		String word = "are";
 
 		System.out.println("Sentences:");
 		System.out.println(Arrays.toString(sentences));
