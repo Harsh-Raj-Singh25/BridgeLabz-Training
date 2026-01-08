@@ -5,7 +5,7 @@ public class MovieLinkedList {
 	MovieNode tail;
 
 	// Add a movie record at the beginning, end, or at a specific position.
-	void insertAtHead(String movie, String director, String year, double rating) {
+	.void insertAtHead(String movie, String director, String year, double rating) {
 		MovieNode newNode = new MovieNode(movie, director, year, rating);
 		if (head == null) {
 			head = tail = newNode;
