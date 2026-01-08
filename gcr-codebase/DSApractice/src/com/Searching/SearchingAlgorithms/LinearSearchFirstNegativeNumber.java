@@ -1,6 +1,7 @@
 package com.Searching.SearchingAlgorithms;
 
 public class LinearSearchFirstNegativeNumber {
+	// method to fetch negative number
 	public static int linearSearch(int [] array) {
 		int index=0;
 		for(int i=0;i<array.length;i++) {
@@ -10,6 +11,7 @@ public class LinearSearchFirstNegativeNumber {
 		}
 		return -1;
 	}
+	
 	public static void main(String[] args) {
 		int[] array= {5,4,8,10,-5,4,-8,-9,10};
 		int index=linearSearch(array);
