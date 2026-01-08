@@ -209,11 +209,14 @@
 * Studied various Searching algorithms.
 * Studied various important topics such as :
   StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
-* Solved 4 Scenario-Based Problems.
+* Learnt how to read files and perform operations on them.
+* Studied the use cases for linear search and binary search
+* Solved 4 Scenario-Based OOPs Problems.
 * Made some real world applications and practiced array like implementation of Classes.
 * Used real world attributes and functionalities and behaviors of entities.
 * Committed and pushed solutions to the repository.
-* View Code : [Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
+* View Code : [OOPs Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
+* View Code : [Searching Practice ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSApractice/src/com/Searching)
 ---
 ###  Day 3 -  Review & Scenario-Based Questions
 **Date:** 07-Jan-2026
