@@ -41,4 +41,9 @@
 * Studied Searching Algorithms : Linear & Binary Search.
 *  Studied various important topics such as :
   StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+* Learnt how to read files and perform operations on them.
+* Studied the use cases for linear search and binary search
+* Practiced questions and implemented the logic.
+* Committed and pushed the solutions to repository.
+* View Code : [Searching](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSApractice/src/com/Searching)
 
