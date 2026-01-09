@@ -46,4 +46,17 @@
 * Practiced questions and implemented the logic.
 * Committed and pushed the solutions to repository.
 * View Code : [Searching](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSApractice/src/com/Searching)
+---
+###  Day 3  -  Algorithm's Runtime Analysis & Big-O Notation
+**Date:** 07-Jan-2026
+* Studied:-
+1. What is Runtime Analysis?
+2. Understanding Big-O Notation
+3. Time Complexity Analysis
+4. Space Complexity Analysis
+5. Best, Worst, and Average Case Complexities
+6. Practical Guidelines for Optimizing Java Code
+* Practiced questions and implemented the logic.
+* Committed and pushed the solutions to repository.
+* View Code : [Algorithms](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSApractice/src/com/)
 
