@@ -19,9 +19,6 @@ public class User implements IPurchasable {
 	public void updateBalance(double price) {
 		setWalletBalance(( getWalletBalance()-price));
 	}
-
-	
-
 	@Override
 	public void purchase(double price) {
 		if ( getWalletBalance()>=price) {

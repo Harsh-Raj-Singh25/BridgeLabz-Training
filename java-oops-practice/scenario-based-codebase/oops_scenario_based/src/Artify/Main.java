@@ -13,7 +13,6 @@ public class Main {
 				new PrintArt("Monalisa","Leonardo",550000,"Purchase",2000)
 				
 		};
-		
 		System.out.println("Enter your name:");
 		String name=sc.nextLine();
 		System.out.println("Enter your walletBalance");
