@@ -109,4 +109,11 @@
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
 ---
-
+###  Day 5 -  Scenario-Based Questions
+**Date:** 09-Jan-2026
+* Solved 3 Scenario-Based Problems.
+* Made some real world applications using OOPs concepts.
+* Learnt the practical use of getter and setter.
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
+---
