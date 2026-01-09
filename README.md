@@ -125,7 +125,7 @@
 * Learned about this, static, final key words and instance of operator Content.
 * Practiced problems using inbuilt methods. 
 * Committed and pushed solutions to the repository.
-* Code: [Scenario_Based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+* Code: [Core-Java Scenario_Based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 * Code: [OOP Practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inBuiltFunction) 
 ---
 ###  Day 2 - Scenario-Based Questions Practice & Object Modeling & Class, Object and Sequenece Diagram.
@@ -136,7 +136,7 @@
 * Made object, class, and sequence diagrams.
 * Practiced Class, Object and Sequenece Diagrams
 * Committed and pushed solutions to the repository.
-* View Code : [Scenario_Based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+* View Code : [Core-Java Scenario_Based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 * View Code : [OOP Practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectModeling)
 ---
 ###  Day 3 - Scenario-Based Questions Practice & Inheritance
@@ -146,7 +146,7 @@
 * Learnt how to inherit parent class attributes and methods in child classes.
 * Practiced different types of Inheritance such as: Single-level, Multilevel, Hierarchical Inheritance.
 * Committed and pushed solutions to the repository.
-* View Code : [Scenario-Based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+* View Code : [Core-Java Scenario-Based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 * View Code : [Inheritance](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/Inheritance)
 ---
 ###  Day 4 - Encapsulation, Polymorphism, Interface and Abstract Class & LeetCode Practice
@@ -159,7 +159,7 @@
 * Solved leetcode Questions of core java concepts.
 * Learnt how to clear test cases and write optimistic code.
 * Committed and pushed solutions to the repository.
-* View Code : [LeetCode](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) 
+* View Code : [Core-Java LeetCode](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) 
 * View Code : [ Encapsulation, Polymorphism, Interface and Abstract Class](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/Encapsulation_Polymorphism_Interface_AbstractClass)
 ---
 ###  Day 5 - DSA Basics & OOPs Scenario-Based Questions & Core-java LeetCode Practice
@@ -172,9 +172,9 @@
 * Practiced questions of Linked List.
 * Solved leetcode Questions.
 * Committed and pushed solutions to the repository.
-* View Code : [Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
+* View Code : [OOPs Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
 * View Code : [Linked List](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSApractice/src/com/linkedlist)
-* View Code : [LeetCode](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) 
+* View Code : [Core-Java LeetCode](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) 
 ---
 ###  Day 6 -  DSA (Stack, Queue and hashmaps) & OOPs Scenario-Based Questions & Leetcode Practice
 **Date:** 03-Jan-2026
@@ -185,8 +185,8 @@
 * Made some real world applications like cabbyGo and MyBank.
 * Solved leetcode Questions of core java concepts.
 * Committed and pushed solutions to the repository.
-* View Code : [Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
-* View Code : [LeetCode](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+* View Code : [OOPs Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
+* View Code : [Core-Java eetCode](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 * View Code : [Stack & Queue](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSApractice/src/com/StackAndQueues)
 * View Code : [HashMap & Hashing Functions](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSApractice/src/com/HashMapsHashFunctions)  
 ---
@@ -201,7 +201,7 @@
 * Made some real world applications like CampusConnect and SwiftCart.
 * Learnt how to use oops concepts in real world scenarios.
 * Committed and pushed solutions to the repository.
-* View Code : [Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
+* View Code : [OOPs Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
 * View Code : [Sorting](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSApractice/src/com/Sorting)
 ---
 ###  Day 2 - Searching Algorithms & Scenario-Based Questions
@@ -224,4 +224,26 @@
 * Solved 3 Scenario-Based Problems.
 * Solved some real world problems by implementing OOPs concepts.
 * Committed and pushed solutions to the repository.
-* View Code : [Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
+* View Code : [OOPs Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
+---
+###  Day 4 -  Revision and OOPs scenario-based questions
+**Date:** 08-Jan-2026
+* Solved 2 Scenario-Based Problems.
+* Solved some real world problems by implementing OOPs concepts.
+* Studied java DSA concepts and their real world implementations.
+* Committed and pushed solutions to the repository.
+* View Code : [OOPs Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
+* View Code : [DSA]()
+---
+###  Day 5 -  OOPs Scenario-Based Questions
+**Date:** 09-Jan-2026
+* Solved 3 Scenario-Based Problems.
+* Solved some real world problems by implementing OOPs concepts.
+* Made some real World applications:-
+  1.Artify – Digital Art Marketplace
+  2.FoodLoop – Restaurant Ordering System
+  3.SkillForge – Online Learning Portal
+* Solved 3 leetcode questions of core-java Concepts.
+* Committed and pushed solutions to the repository.
+* View Code : [OOPs Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
+* View Code : [Core-Java leetcode](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
