@@ -20,5 +20,6 @@ public class Main {
 
         //Admin Logs
         cityPark.showPublicLogs();
+        
     }
 }
