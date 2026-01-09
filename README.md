@@ -8,7 +8,7 @@
 * ### [dsa-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice)
 ---
 
-## Week 1 : Git & GitHub, Java Programming Fundamentals 
+## Week 1 : Git & GitHub, Java Programming Fundamentals
 --- ---
 ###  Day 1 - Git & GitHub and Standard Coding Practices 
 **Date:** 15-Dec-2025
