@@ -1,5 +1,5 @@
 # Core Java Practice - BridgeLabz Training
- This repository is a dedicated space where I document my daily progress, code snippets, and conceptual learnings during my training at BridgeLabz.
+> This branch is a dedicated space where I document my daily progress, code snippets, and conceptual learnings of core-java concepts during my training at BridgeLabz.
 ---
 
 ## Week 1 : Git & GitHub, Java Programming Fundamentals 
@@ -147,3 +147,10 @@
 * Committed and pushed solutions to the repository.
 * [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) 
 ---
+
+## Week 4 : Leetcode Practice 
+---
+* Practice of real world questions.
+* Utilizing core-java concepts to solve problems.
+* Committed and pushed solutions to repository.
+* [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
