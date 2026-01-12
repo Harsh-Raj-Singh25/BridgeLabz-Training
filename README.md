@@ -247,3 +247,11 @@
 * Committed and pushed solutions to the repository.
 * View Code : [OOPs Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/oops_scenario_based/src)
 * View Code : [Core-Java leetcode](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+---
+###  Day 6  -  DSA Scenario-Based Practice
+**Date:** 08-Jan-2026
+* Solved 3 DSA scenario-based problems.
+* Practiced questions and implemented the logic.
+* Committed and pushed the solutions to repository.
+* View Code : [DSA Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day1)
+---
