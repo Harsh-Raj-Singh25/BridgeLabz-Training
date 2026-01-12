@@ -255,3 +255,18 @@
 * Committed and pushed the solutions to repository.
 * View Code : [DSA Scenario-based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day1)
 ---
+--- ---
+## Week 5 : DSA Scenario-based Practice
+--- ---
+###  Day 1 -  DSA Scenario-Based Questions 
+**Date:** 05-Jan-2026
+* Solved 3 scenario-Based DSA problems:
+  1. TrafficManager – Roundabout Vehicle Flow
+  2. BookShelf – Library Organizer
+  3. HomeNest – Smart Home Device Manager
+* Implemented the linked List, Stacks, hashmap and queue.
+* Studied the practical application and implementation.
+* Committed and pushed solutions to the repository.
+* View Code : [DSA Scenario-Based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day2)
+---
+
