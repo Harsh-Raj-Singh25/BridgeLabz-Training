@@ -59,4 +59,24 @@
 * Practiced questions and implemented the logic.
 * Committed and pushed the solutions to repository.
 * View Code : [Algorithms](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSApractice/src/com/)
+---
+###  Day 4  -  Algorithm's Runtime Analysis
+**Date:** 08-Jan-2026
+* Practiced questions and implemented the logic.
+* Committed and pushed the solutions to repository.
+* View Code : [Algorithms](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSApractice/src/com/)
+---
+###  Day 5  -  Revision of DSA concepts
+**Date:** 07-Jan-2026
+* Revised the dsa concepts and the studied smart implementation of DSA concepts.
+* Went through practiced concepts and modified some programs.
+* View Code : [DSA](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSApractice/src/com/)
+---
+###  Day 6  -  Scenario-Based Practice
+**Date:** 07-Jan-2026
+* Solved 3 scenario-based dsa problems.
+* learnt the practical implementation of DSA concepts.
+* Practiced questions and implemented the logic.
+* Committed and pushed the solutions to repository.
+* View Code : [Scenario-Based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day1)
 
