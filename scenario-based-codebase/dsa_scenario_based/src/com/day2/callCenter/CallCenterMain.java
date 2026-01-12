@@ -16,7 +16,7 @@ public class CallCenterMain {
         	String id=sc.nextLine();
         	System.out.println("Enter your customer name:");
         	String name=sc.nextLine();
-        	System.out.println("Is the customer VIP [true/false");
+        	System.out.println("Is the customer VIP [true/false]");
         	boolean vip=sc.nextBoolean();
         	sc.nextLine();
         	center.addCall(new Customer(id,name, vip));
@@ -24,17 +24,6 @@ public class CallCenterMain {
         for(int i=0;i<n;i++) {
         	center.serveCall();
         }
-        
-        
-//        center.addCall(new Customer("C1", "Amit", false));
-//        center.addCall(new Customer("C2", "Rohit", true));
-//        center.addCall(new Customer("C3", "Neha", false));
-//        center.addCall(new Customer("C2", "Rohit", true));
-//
-//        center.serveCall();
-//        center.serveCall();
-//        center.serveCall();
-
         System.out.println("Call Frequency: " + center.callCount);
     }
 }
