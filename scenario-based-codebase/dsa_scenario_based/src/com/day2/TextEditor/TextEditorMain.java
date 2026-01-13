@@ -26,16 +26,16 @@ public class TextEditorMain {
 		performAction("Delete 'H'", editorStack, redoStack);
 		performAction("Make Bold", editorStack, redoStack);
 
-		// 2. Undo: Pop from Editor, Push to Redo
-		System.out.println("\n--- ↩️ Undo Clicked ---");
+		//  Undo: Pop from Editor, Push to Redo
+		System.out.println("\n--- Undo Clicked ---");
 		String actionToUndo = editorStack.pop();
 		if (!actionToUndo.equals("-1")) {
 			redoStack.push(actionToUndo);
 			System.out.println("Undone: " + actionToUndo);
 		}
 
-		// 3. Redo: Pop from Redo, Push back to Editor
-		System.out.println("\n--- ↪️ Redo Clicked ---");
+		//  Redo: Pop from Redo, Push back to Editor
+		System.out.println("\n---  Redo Clicked ---");
 		String actionToRedo = redoStack.pop();
 		if (!actionToRedo.equals("-1")) {
 			editorStack.push(actionToRedo);
@@ -46,7 +46,7 @@ public class TextEditorMain {
 	// Helper method to simulate a new action
 	public static void performAction(String action, UndoRedoStackLL editor, UndoRedoStackLL redo) {
 		editor.push(action);
-		// 🔥 CRITICAL: Every time a NEW action is performed,
+		//  CRITICAL: Every time a NEW action is performed,
 		// the Redo stack MUST be cleared!
 		while (!redo.peek().equals("-1")) {
 			redo.pop();
