@@ -249,7 +249,7 @@
 * View Code : [Core-Java leetcode](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 ---
 ###  Day 6  -  DSA Scenario-Based Practice
-**Date:** 08-Jan-2026
+**Date:** 10-Jan-2026
 * Solved 3 DSA scenario-based problems.
 * Practiced questions and implemented the logic.
 * Committed and pushed the solutions to repository.
@@ -259,12 +259,22 @@
 ## Week 5 : DSA Scenario-based Practice
 --- ---
 ###  Day 1 -  DSA Scenario-Based Questions 
-**Date:** 05-Jan-2026
+**Date:** 12-Jan-2026
 * Solved 3 scenario-Based DSA problems:
   1. TrafficManager – Roundabout Vehicle Flow
   2. BookShelf – Library Organizer
   3. HomeNest – Smart Home Device Manager
 * Implemented the linked List, Stacks, hashmap and queue.
+* Studied the practical application and implementation.
+* Committed and pushed solutions to the repository.
+* View Code : [DSA Scenario-Based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day2)
+---
+###  Day 2 -  DSA Scenario-Based Questions 
+**Date:** 13-Jan-2026
+* Solved 3 scenario-Based DSA problems.
+* Implemented the linked List, Stacks, hashmap and queue.
+* Learnt about trees and the different types of tress.
+* Operations performed on trees.
 * Studied the practical application and implementation.
 * Committed and pushed solutions to the repository.
 * View Code : [DSA Scenario-Based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day2)
