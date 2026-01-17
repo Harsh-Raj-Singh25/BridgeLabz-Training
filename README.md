@@ -17,7 +17,7 @@
 | **Week 03** | OOPs Practice and implementation | ✅ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice) |
 | **Week 04** | DSA Basics and Implementation| ✅ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice) |
 | **Week 05** | DSA Scenario-Based Practice | ✅ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice) |
-| **Week 06** | Java Collections |  | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice) |
+| **Week 06** | Java Collections | ⏳ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice) |
 
 ---
 
