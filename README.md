@@ -111,3 +111,11 @@
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day4_Sorting)
 ---
+###  Day 4 -  DSA Scenario-Based Questions on Sorting
+**Date:** 16-Jan-2026
+* Solved 3 scenario-Based DSA problems.
+* All the 3 problems involved the use of Sorting algorithms [ bubble, Insertion and quick].
+* Learnt how to use efficient sorting.
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day5_Sorting)
+---
