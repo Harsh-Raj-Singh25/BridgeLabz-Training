@@ -8,6 +8,19 @@
 * ### [dsa-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice)
 ---
 
+## 📂 Curriculum & Weekly Overview
+
+| Assignment No. | Topic / Module | Status | Code Link |
+| :--- | :--- | :---: | :--- |
+| **Week 1** | Git & GitHub, Java Programming Fundamentals | ✅ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice) |
+| **Week 02** | Java Programming Fundamentals and OOPS Basics  | ✅ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice) |
+| **Week 03** | OOPs Practice and implementation | ✅ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice) |
+| **Week 04** | DSA Basics and Implementation| ✅ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice) |
+| **Week 05** | DSA Scenario-Based Practice | ✅ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice) |
+| **Week 06** | Java Collections |  | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice) |
+
+---
+
 ## Week 1 : Git & GitHub, Java Programming Fundamentals
 --- ---
 ###  Day 1 - Git & GitHub and Standard Coding Practices 
