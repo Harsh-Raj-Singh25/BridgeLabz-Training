@@ -1,5 +1,14 @@
 package com.day8_Sorting.GamerZoneQuickSort;
-
+/*
+ *  8. GamerZone – High Score Ranking System (Quick Sort)
+Story: A global multiplayer game needs to rank thousands of players in real-time based on their
+scores after every match. The list is dynamic, large, and often unsorted. Quick Sort is used to
+reorder players quickly for leaderboards.
+Concepts Involved:
+● Quick Sort
+● Sorting dynamic, large datasets
+● Performance-driven solution
+ */
 public class GamerZoneMain {
 	public static void main(String[] args) {
 		Player [] array= {
