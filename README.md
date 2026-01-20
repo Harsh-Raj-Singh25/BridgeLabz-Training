@@ -308,11 +308,37 @@
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day5_Sorting)
 ---
+---
 ###  Day 5 -  DSA Scenario-Based Questions on Sorting
 **Date:** 17-Jan-2026
 * Solved 4 scenario-Based DSA problems.
-* All the 4 problems involved the use of Sorting algorithms [ bubble, Insertion and quick].
-* Learnt how to use efficient sorting.
+* The 4 Problems included:
+  1. IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+  2. SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+  3. ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+  4. FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day6_Sorting)
+--- ---
+## Week 6 : DSA Scenario-Based Questions
+--- ---
+###  Day 1 -  DSA Scenario-Based Questions on Sorting
+**Date:** 19-Jan-2026
+* Solved 3 scenario-Based DSA problems.
+* The 3 Problems included:
+  >1. EduResults – Rank Sheet Generator (Merge Sort)
+  >2. FlashDealz – Product Sorting by Discount (Quick Sort)
+  >3. FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day7_Sorting)
+---
+###  Day 2 -  DSA Scenario-Based Questions on Sorting
+**Date:** 20-Jan-2026
+* Solved 3 scenario-Based DSA problems.
+* The 3 Problems included:
+  >1. MovieTime – Theater Show Listings (Insertion Sort)
+  >2. FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+  >3. GamerZone – High Score Ranking System (Quick Sort)
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day8_Sorting)
 ---
