@@ -129,4 +129,16 @@
   4. FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day6_Sorting)
+--- ---
+## Week 6 : DSA Concepts
+--- ---
+###  Day 1 -  DSA Scenario-Based Questions on Sorting
+**Date:** 19-Jan-2026
+* Solved 3 scenario-Based DSA problems.
+* The 3 Problems included:
+  >1. EduResults – Rank Sheet Generator (Merge Sort)
+  >2. FlashDealz – Product Sorting by Discount (Quick Sort)
+  >3. FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day7_Sorting)
 ---
