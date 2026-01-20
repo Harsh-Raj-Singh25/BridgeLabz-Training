@@ -119,3 +119,14 @@
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day5_Sorting)
 ---
+###  Day 5 -  DSA Scenario-Based Questions on Sorting
+**Date:** 17-Jan-2026
+* Solved 4 scenario-Based DSA problems.
+* The 4 Problems included:
+  1. IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+  2. SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+  3. ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+  4. FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day6_Sorting)
+---
