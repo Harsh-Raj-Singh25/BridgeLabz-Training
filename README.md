@@ -142,3 +142,13 @@
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day7_Sorting)
 ---
+###  Day 2 -  DSA Scenario-Based Questions on Sorting
+**Date:** 20-Jan-2026
+* Solved 3 scenario-Based DSA problems.
+* The 3 Problems included:
+  >1. MovieTime – Theater Show Listings (Insertion Sort)
+  >2. FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+  >3. GamerZone – High Score Ranking System (Quick Sort)
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day8_Sorting)
+---
