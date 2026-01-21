@@ -6,6 +6,7 @@
 * ### [Core-java-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/core-java-practice)
 * ### [java-oops-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice)
 * ### [dsa-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice)
+* ### [java-collections-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice)
 ---
 
 ## 📂 Curriculum & Weekly Overview
@@ -342,3 +343,4 @@
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day8_Sorting)
 ---
+
