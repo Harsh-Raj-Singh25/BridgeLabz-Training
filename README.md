@@ -347,6 +347,7 @@
 **Date:** 21-Jan-2026
 * Studied different types of trees.
 * Operations performed over trees.
+* Solved 2 scenario-Based DSA problems on sorting
 * Committed and pushed solutions to the repository.
-* View Code : [ DSA Scenario-Based ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day8_Sorting)
+* View Code : [ DSA Scenario-Based ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day9_Sorting)
 ---
