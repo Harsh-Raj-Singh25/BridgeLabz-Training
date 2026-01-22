@@ -152,3 +152,14 @@
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day8_Sorting)
 ---
+###  Day 2 -  DSA Scenario-Based Questions 
+**Date:** 21-Jan-2026
+* Solved 2 scenario-Based DSA problems on sorting
+* The 3 Problems included:
+  >1. MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
+  >2.  TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)
+* Studied different types of trees.
+* Learnt Implementation..
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day9_Sorting)
+---
