@@ -27,6 +27,5 @@ public class UnionAndIntersection {
 		System.out.println(" The union is :"+union);
 		System.out.println(" The intersection is  :"+intersection);
 		
-		
 	}
 }
