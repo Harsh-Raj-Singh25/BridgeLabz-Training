@@ -152,7 +152,7 @@
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day8_Sorting)
 ---
-###  Day 2 -  DSA Scenario-Based Questions 
+###  Day 3 -  DSA Scenario-Based Questions 
 **Date:** 21-Jan-2026
 * Solved 2 scenario-Based DSA problems on sorting
 * The 3 Problems included:
@@ -162,4 +162,12 @@
 * Learnt Implementation..
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day9_Sorting)
+* View Code : [Scenario-Based BST ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day9_BST)
+---
+###  Day 4 -  DSA Scenario-Based Questions 
+**Date:** 22-Jan-2026
+* Solved  3 scenario-Based DSA problems on AVL Tree.
+* Learnt Implementation.
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-Based AVL ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day10_AVL) 
 ---
