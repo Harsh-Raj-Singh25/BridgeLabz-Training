@@ -1,4 +1,0 @@
---- User Profile ---
-Name: Harsh Raj Singh
-Age: 21
-Favorite Language: python
