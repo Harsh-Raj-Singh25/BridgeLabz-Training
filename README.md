@@ -293,25 +293,30 @@
 * Committed and pushed solutions to the repository.
 * View Code : [DSA Scenario-Based](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day2)
 ---
-###  Day 3 -  DSA Scenario-Based Questions on Sorting
+###  Day 3 -  Generics & DSA Scenario-Based Questions on Sorting
 **Date:** 15-Jan-2026
+* Studied the basics of Generics.
+* Learnt their purpose and usecases.
 * Solved 5 scenario-Based DSA problems.
 * All the 5 problems involved the use of Sorting algorithms.
 * Learnt how to use efficient sorting.
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day4_Sorting)
+* View Code : [Generics](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/collections_practice/src/com/Generics)
 ---
-###  Day 4 -  DSA Scenario-Based Questions on Sorting
+###  Day 4 - Java Collections &  DSA Scenario-Based Questions on Sorting
 **Date:** 16-Jan-2026
 * Solved 3 scenario-Based DSA problems.
 * All the 3 problems involved the use of Sorting algorithms [ bubble, Insertion and quick].
 * Learnt how to use efficient sorting.
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day5_Sorting)
----
+* View Code : [Collections](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/collections_practice/src/com/collections)
 ---
 ###  Day 5 -  DSA Scenario-Based Questions on Sorting
 **Date:** 17-Jan-2026
+* Studied the advanced concepts of Collections.
+* Studied the hierarchy of different interfaces and classes.
 * Solved 4 scenario-Based DSA problems.
 * The 4 Problems included:
   1. IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
@@ -320,11 +325,14 @@
   4. FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day6_Sorting)
+* View Code : [Collections](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/collections_practice/src/com/collections)
 --- ---
 ## Week 6 : DSA Scenario-Based Questions
 --- ---
-###  Day 1 -  DSA Scenario-Based Questions on Sorting
+###  Day 1 - Java Streams &  DSA Scenario-Based Questions on Sorting
 **Date:** 19-Jan-2026
+* Studied different types of streams.
+* Operations performed over streams.
 * Solved 3 scenario-Based DSA problems.
 * The 3 Problems included:
   >1. EduResults – Rank Sheet Generator (Merge Sort)
@@ -332,9 +340,13 @@
   >3. FitnessTracker – Daily Step Count Ranking (Bubble Sort)
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day7_Sorting)
+* View Code : [Streams ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/collections_practice/src/com/streams)
 ---
-###  Day 2 -  DSA Scenario-Based Questions on Sorting
+###  Day 2 -  Exceptions & DSA Scenario-Based Questions on Sorting
 **Date:** 20-Jan-2026
+* Studied different types of Exceptions.
+* Operations performed over different types of exceptions.
+* Learnt how to handle exceptions.
 * Solved 3 scenario-Based DSA problems.
 * The 3 Problems included:
   >1. MovieTime – Theater Show Listings (Insertion Sort)
@@ -342,12 +354,43 @@
   >3. GamerZone – High Score Ranking System (Quick Sort)
 * Committed and pushed solutions to the repository.
 * View Code : [Scenario-Based Sorting ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day8_Sorting)
+* View Code : [Exceptions](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/collections_practice/src/com/exceptionHandling)
 ---
-###  Day 3 -  DSA Scenario-Based Questions on Trees
+###  Day 3 -  REGEX and JUnit  &  DSA Scenario-Based Questions on Trees
 **Date:** 21-Jan-2026
 * Studied different types of trees.
+* studied BST.
 * Operations performed over trees.
 * Solved 2 scenario-Based DSA problems on sorting
+* Studied about pattern matching and different operations using Regex.
+* Learnt how to use JUnit for testing.
 * Committed and pushed solutions to the repository.
 * View Code : [ DSA Scenario-Based ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day9_Sorting)
+* View Code : [REGEX](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/collections_practice/src/com/regex)
+* View Code : [JUnit](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/collections_practice/src/com/jUnit)
 ---
+###  Day 4 - Annotations and Reflection  &  DSA Scenario-Based Questions on Trees 
+**Date:** 22-Jan-2026
+* Studied AVL trees
+* Operations performed over avl trees.
+* Solved 3 scenario-Based DSA problems on AVL trees.
+* Studied different types of Annotations and their use cases.
+* Learnt about reflections.
+* Committed and pushed solutions to the repository.
+* View Code : [ DSA Scenario-Based ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day9_Sorting)
+* View Code : [ANNOTATION](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/collections_practice/src/com/annotations)
+* View Code : [Reflection](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/collections_practice/src/com/reflection)
+---
+###  Day 5 -   Scenario-Based Questions on Collections
+**Date:** 23-Jan-2026
+* Solved 5 scenario-Based DSA problems on collections.
+* Committed and pushed solutions to the repository.
+* View Code : [ Scenario-Based ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day9_Sorting)
+---
+###  Day 6 -  Scenario-Based Questions on Collection
+**Date:** 24-Jan-2026
+* Solved 5 scenario-Based DSA problems on collections.
+* Committed and pushed solutions to the repository.
+* View Code : [ Collections Scenario-Based ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day9_Sorting)
+
+
