@@ -381,16 +381,21 @@
 * View Code : [ANNOTATION](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/collections_practice/src/com/annotations)
 * View Code : [Reflection](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/collections_practice/src/com/reflection)
 ---
-###  Day 5 -   Scenario-Based Questions on Collections
+###  Day 5 -   CSV Files & Scenario-Based Questions on Collections
 **Date:** 23-Jan-2026
+* Studied about CSV files.
+* Studied how to perform different operations over CSV files.
+* Learnt multiple inbuilt and callable methods. 
 * Solved 5 scenario-Based DSA problems on collections.
 * Committed and pushed solutions to the repository.
 * View Code : [ Scenario-Based ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day9_Sorting)
+* View Code : [ CSV ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/iostream_practice/src/main/java/csvData)
 ---
-###  Day 6 -  Scenario-Based Questions on Collection
+###  Day 6 -  Json data operations & Scenario-Based Questions on Collection
 **Date:** 24-Jan-2026
+* Studied about json files.
+* Studied different operations and usecases of json data.
 * Solved 5 scenario-Based DSA problems on collections.
 * Committed and pushed solutions to the repository.
-* View Code : [ Collections Scenario-Based ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day9_Sorting)
-
-
+* View Code : [ Collections Scenario-Based ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day9_Sorting).
+* View Code :  [ JSON ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/iostream_practice/src/main/java/jsonData)
