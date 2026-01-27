@@ -19,6 +19,6 @@ public class PasswordValidatorTest {
 	@ParameterizedTest
 	@ValueSource(strings = { "short", "NoDigitHere", "alllowercase123", "12345678" })
 	void testInvalidPasswords(String password) {
-		assertTrue(validator.isValid(password)); // if we use assertFalse , it will pass
+		assertTrue(validator.isValid(password));  // if we use assertFalse , it will pass
 	}
 }
