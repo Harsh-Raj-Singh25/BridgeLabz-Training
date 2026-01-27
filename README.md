@@ -399,3 +399,15 @@
 * Committed and pushed solutions to the repository.
 * View Code : [ Collections Scenario-Based ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/dsa_scenario_based/src/com/day9_Sorting).
 * View Code :  [ JSON ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/iostream_practice/src/main/java/jsonData)
+---
+---
+WEEK 7 : Java 8 features 
+---
+---
+### Day 1 - Lambda Expressions and functional Interfaces
+**Date:** 27-Jan-2026
+* Studied about lambda expressions and their advantages.
+* Implemented functional interfaces.
+* Explored different features of Java 8.
+* Practiced problems.
+---
