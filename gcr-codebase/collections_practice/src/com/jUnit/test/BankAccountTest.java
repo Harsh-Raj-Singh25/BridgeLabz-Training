@@ -1,6 +1,8 @@
-package com.jUnit.advance_problems.bankingTransactions;
+package com.jUnit.test;
+import com.jUnit.com.advance_problems.bankingTransactions.BankAccount;
 
 import org.junit.jupiter.api.*;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class BankAccountTest {
