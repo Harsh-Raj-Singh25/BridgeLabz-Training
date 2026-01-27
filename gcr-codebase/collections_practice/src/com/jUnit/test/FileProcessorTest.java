@@ -1,6 +1,9 @@
-package com.jUnit.fileHandlingmethods;
+package com.jUnit.test;
 
 import org.junit.jupiter.api.*;
+
+import com.jUnit.com.fileHandlingmethods.FileProcessor;
+
 import java.io.IOException;
 import java.nio.file.*;
 import static org.junit.jupiter.api.Assertions.*;

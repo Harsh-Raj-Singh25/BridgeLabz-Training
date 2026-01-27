@@ -1,8 +1,10 @@
-package com.jUnit.advance_problems.userRegistration;
+package com.jUnit.test;
 
 import org.junit.jupiter.api.*;
-import static org.junit.jupiter.api.Assertions.*;
 
+import com.jUnit.com.advance_problems.userRegistration.UserRegistration;
+
+import static org.junit.jupiter.api.Assertions.*;
 public class UserRegistrationTest {
 	UserRegistration registration = new UserRegistration();
 

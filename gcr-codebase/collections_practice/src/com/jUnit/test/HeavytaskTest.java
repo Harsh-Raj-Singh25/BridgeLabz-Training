@@ -1,6 +1,8 @@
-package com.jUnit.performanceTesting;
+package com.jUnit.test;
 
 import org.junit.jupiter.api.*;
+import com.jUnit.com.performanceTesting.*;
+
 import java.util.concurrent.TimeUnit;
 
 

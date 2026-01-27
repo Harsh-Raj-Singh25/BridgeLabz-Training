@@ -1,6 +1,9 @@
-package com.jUnit.listOperations;
+package com.jUnit.test;
 
 import org.junit.jupiter.api.*;
+
+import com.jUnit.com.listOperations.ListManager;
+
 import java.util.ArrayList;
 import java.util.List;
 import static org.junit.jupiter.api.Assertions.*;

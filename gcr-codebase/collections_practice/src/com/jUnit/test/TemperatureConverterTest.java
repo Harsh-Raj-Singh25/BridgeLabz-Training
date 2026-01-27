@@ -1,6 +1,7 @@
-package com.jUnit.advance_problems.temperatureConverter;
-
+package com.jUnit.test;
+import com.jUnit.com.advance_problems.temperatureConverter.*;
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class TemperatureConverterTest {

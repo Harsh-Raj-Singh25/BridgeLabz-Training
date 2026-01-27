@@ -1,7 +1,9 @@
-package com.jUnit.beforeEachAfterEach;
+package com.jUnit.test;
 
 import org.junit.jupiter.api.*;
+
 import static org.junit.jupiter.api.Assertions.*;
+import com.jUnit.com.beforeEachAfterEach.*;
 
 public class DatabaseTest {
 	DatabaseConnection db;

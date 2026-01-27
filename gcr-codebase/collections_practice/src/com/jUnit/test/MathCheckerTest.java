@@ -1,7 +1,10 @@
-package com.jUnit.parameterizedTests;
+package com.jUnit.test;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
+
+import com.jUnit.com.parameterizedTests.MathChecker;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class MathCheckerTest {

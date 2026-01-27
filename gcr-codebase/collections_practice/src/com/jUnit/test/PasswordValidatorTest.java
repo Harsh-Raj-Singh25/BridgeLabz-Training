@@ -1,7 +1,8 @@
-package com.jUnit.advance_problems.passwordStrengthValidator;
-
+package com.jUnit.test;
+import com.jUnit.com.advance_problems.passwordStrengthValidator.*;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class PasswordValidatorTest {
@@ -19,6 +20,6 @@ public class PasswordValidatorTest {
 	@ParameterizedTest
 	@ValueSource(strings = { "short", "NoDigitHere", "alllowercase123", "12345678" })
 	void testInvalidPasswords(String password) {
-		assertTrue(validator.isValid(password));  // if we use assertFalse , it will pass
+		assertFalse(validator.isValid(password));  // if we use assertFalse , it will pass
 	}
 }

@@ -1,7 +1,9 @@
-package com.jUnit.exceptionHandling;
+package com.jUnit.test;
 
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.*;
+import com.jUnit.com.exceptionHandling.*;
 
 public class MathUtilsTest {
 	@Test

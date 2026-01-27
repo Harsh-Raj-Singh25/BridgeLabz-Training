@@ -1,6 +1,9 @@
-package com.jUnit.testStringUtilityMethods;
+package com.jUnit.test;
 
 import org.junit.jupiter.api.Test;
+
+import com.jUnit.com.testStringUtilityMethods.StringUtility;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class StringUtilityTest {
