@@ -1,4 +1,4 @@
-student,enrollment
-John Doe,1001
-Jane Smith,1002
-Peter Jones,1003
+student,enrollment,branch,marks,email,phone
+Harsh Raj,1001,AIML,98,harsgmail,9471473020
+Namrata Khapre,1002,AIML,95,nammu3474@gmail.com,9691564706
+Anand Raj,1003,ME,72,anand34@gmail.com,9955649304
