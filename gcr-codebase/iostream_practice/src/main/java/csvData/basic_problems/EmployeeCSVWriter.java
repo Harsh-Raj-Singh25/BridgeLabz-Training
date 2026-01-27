@@ -5,11 +5,11 @@ import java.io.*;
 public class EmployeeCSVWriter {
     public static void main(String[] args) {
         String[][] employees = {
-            {"101", "Alice", "IT", "75000"},
-            {"102", "Bob", "HR", "60000"},
-            {"103", "Charlie", "Finance", "80000"},
-            {"104", "David", "Marketing", "55000"},
-            {"105", "Eve", "Operations", "68000"}
+            {"101", "Harsh", "IT", "75000"},
+            {"102", "Namrata", "HR", "60000"},
+            {"103", "Anand", "Finance", "80000"},
+            {"104", "Sarthak", "Marketing", "55000"},
+            {"105", "Anjali", "Operations", "68000"}
         };
         // we use printwriter because its inBuilt and don't need any addition of jar files
         try (PrintWriter writer = new PrintWriter(new File("src/main/java/csvData/employees.csv"))) {
