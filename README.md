@@ -7,6 +7,8 @@
 * ### [java-oops-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice)
 * ### [dsa-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice)
 * ### [java-collections-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice)
+* ### [java-iostream-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-iostreams-practice)
+* ### [java8-programming-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java8-programming-practice) 
 ---
 
 ## 📂 Curriculum & Weekly Overview
