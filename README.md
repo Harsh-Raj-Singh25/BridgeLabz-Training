@@ -18,7 +18,8 @@
 | **Week 03** | OOPs Practice and implementation | ✅ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-oops-practice) |
 | **Week 04** | DSA Basics and Implementation| ✅ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice) |
 | **Week 05** | DSA Scenario-Based Practice | ✅ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice) |
-| **Week 06** | Java Collections | ⏳ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice) |
+| **Week 06** | Java Collections | ✅ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice) |
+| **Week 07** | Java 8 features | ⏳ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java8-programming-practice) |
 
 ---
 
@@ -410,4 +411,11 @@ WEEK 7 : Java 8 features
 * Implemented functional interfaces.
 * Explored different features of Java 8.
 * Practiced problems.
+---
+### Day 2 - Stream API and collectors.
+**Date:** 28-Jan-2026
+* Studied about Stream API and collectors.
+* Implemented functional interfaces.
+* Explored different features of Java 8.
+* Practiced real-World problems.
 ---
