@@ -16,7 +16,7 @@ public class IPLAnalyzer {
     @JsonProperty("score")
     private String score;
 
-    // Add getter and setter
+    // Add getter and setter  
 
     public static void main(String[] args) {
         try {
