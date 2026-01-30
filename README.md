@@ -421,3 +421,10 @@ WEEK 7 : Java 8 features
 * Explored different features of Java 8.
 * Practiced real-World problems.
 ---
+### Day 3 - Implementation of Java 8 & revision of Collections Framework
+**Date:** 29-Jan-2026
+* Studied about Java 8 features.
+* Implemented concepts.
+* Revised Last week concepts.
+* Attended meeting .
+---
