@@ -428,3 +428,11 @@ WEEK 7 : Java 8 features
 * Revised Last week concepts.
 * Attended meeting .
 ---
+### Day 4 - Implementation of Java 8
+**Date:** 30-Jan-2026
+* Studied about Java 8 features.
+* Implemented concepts.
+* Revised Last week concepts.
+* Attended meeting .
+* View Code : [ Java 8](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com) 
+---
