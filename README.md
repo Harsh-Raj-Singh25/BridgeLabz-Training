@@ -436,3 +436,12 @@ WEEK 7 : Java 8 features
 * Attended meeting .
 * View Code : [ Java 8](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com) 
 ---
+### Day 5 - Streams practice & Design Principles
+**Date:** 31-Jan-2026
+* Studied about Design Principles.
+* Implemented concepts of java 8.
+* Revised Last week concepts.
+* Attended review session by mentors.
+* View Code : [ Java 8](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com) 
+---
+
