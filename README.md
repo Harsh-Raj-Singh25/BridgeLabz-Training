@@ -444,4 +444,24 @@ WEEK 7 : Java 8 features
 * Attended review session by mentors.
 * View Code : [ Java 8](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com) 
 ---
+---
+WEEK 8 : Multithreading & JDBC
+---
+### Day 1 - Multithreading 
+**Date:** 02-Feb-2026
+* Studied about Multithreading.
+* Implemented concepts.
+* Revised Last week concepts.
+* Attended review session by mentors.
+* View Code : [ Multithreading ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com) 
+---
+### Day 2 - Multithreading & streams practice
+**Date:** 03-Feb-2026
+* Studied about Multithreading.
+* Implemented concepts.
+* Revised Last streams concepts.
+* Practiced 50+ ques.
+* View Code : [ Java 8](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com) 
+---
+
 
