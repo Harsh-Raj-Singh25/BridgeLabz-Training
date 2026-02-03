@@ -17,7 +17,8 @@ public class WordFrequency {
 		
 		// using .toMap
 		// here s-> s for word, word -> 1 = initial count . Integer :: sum == If word exists, add 1 to the current value
-		System.out.println(Arrays.stream(str.split(" ")).collect(Collectors.toMap(s -> s, c -> 1, (s,c) -> s+c   )));
+		System.out.println(Arrays.stream(str.split(" ")).collect(Collectors.toMap(s -> s, s -> 1, Integer :: sum)));
+		// (s,c) -> s+c  And Integer :: sum do the same task 
 		
 	}
 }
