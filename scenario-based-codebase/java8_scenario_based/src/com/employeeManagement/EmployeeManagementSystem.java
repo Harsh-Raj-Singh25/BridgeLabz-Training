@@ -87,7 +87,6 @@ public class EmployeeManagementSystem {
 		//list.stream().collect(Collectors.groupingBy(Employee:: getDepartment, Collectors.mapping(Collectors.averagingDouble(Employee:: getSalary), Collectors.summingDouble(Employee::getSalary) )));
 		System.out.println("Average salary :"+stats.getAverage() + " | Total salary :"+ stats.getSum());
 		
-		
 //		14. Get the employee whose salary are more than 25k.
 		System.out.println("employee whose salary are more than 25k");
 		list.stream().filter(x-> x.getSalary()>25000).toList().forEach(System.out::println);;
