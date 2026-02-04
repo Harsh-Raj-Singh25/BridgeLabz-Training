@@ -17,13 +17,13 @@
 * Studied basic concepts multithreading in java.
 * Learnt the basic implementation and properties.
 * Practiced and pushed solutions on GitHub.
-* [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/design_pattern_practice/src/com/design_patterns/libraryManagementSystem) 
+* [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/design_pattern_practice/src/com/multithreading) 
 ---
 ###  Day  3 - Multithreading Implementation
 **Date:** 3-Feb-2026
 * Practiced problems with the help of multithreading.
 * Learnt how to model real world problems in multithreading.
 * Practiced and pushed solutions on GitHub.
-* [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/design_pattern_practice/src/com/design_patterns/libraryManagementSystem) 
+* [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/design_pattern_practice/src/com/multithreading) 
 ---
 
