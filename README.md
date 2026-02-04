@@ -4,7 +4,7 @@
 ## Week 8 :  Design Patterns and Principles  & Multithreading in java
 ---
 ---
-###  Day  1 - Git Practice & Basic Java Programs
+###  Day  1 - Design Principles and Patterns
 **Date:** 2-Feb-2026
 * Studied basic concepts of design patterns and principles in java.
 * Learnt the importance of principles.
