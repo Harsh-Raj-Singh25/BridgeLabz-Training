@@ -12,4 +12,11 @@
 * Practiced and pushed solutions on GitHub.
 * [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/design_pattern_practice/src/com/design_patterns/libraryManagementSystem) 
 ---
+###  Day  2 - Multithreading
+**Date:** 2-Feb-2026
+* Studied basic concepts multithreading in java.
+* Learnt the basic implementation and properties.
+* Practiced and pushed solutions on GitHub.
+* [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/design_pattern_practice/src/com/design_patterns/libraryManagementSystem) 
+---
 
