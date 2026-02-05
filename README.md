@@ -8,7 +8,8 @@
 * ### [dsa-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice)
 * ### [java-collections-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice)
 * ### [java-iostream-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-iostreams-practice)
-* ### [java8-programming-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java8-programming-practice) 
+* ### [java8-programming-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java8-programming-practice)
+* ### [java-design-pattern-practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-design-pattern-practice)
 ---
 
 ## 📂 Curriculum & Weekly Overview
@@ -21,7 +22,8 @@
 | **Week 04** | DSA Basics and Implementation| ✅ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice) |
 | **Week 05** | DSA Scenario-Based Practice | ✅ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/dsa-practice) |
 | **Week 06** | Java Collections | ✅ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-collections-practice) |
-| **Week 07** | Java 8 features | ⏳ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java8-programming-practice) |
+| **Week 07** | Java 8 features  | ✅ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java8-programming-practice) |
+| **Week 08** | java-design-pattern-practice & Multithreading | ⏳ | [Explore](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-design-pattern-practice) |
 
 ---
 
