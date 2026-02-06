@@ -426,6 +426,7 @@ WEEK 7 : Java 8 features
 * Studied about Stream API.
 * Implemented different functions of stream API.
 * Learnt the use of intermediate and terminal Operations.
+* Studied about use of optional class & time and date API.
 * Practiced real-World problems and pushed solution to the repository.
 * View Code :  [Stream API ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com/stream_API)
 ---
