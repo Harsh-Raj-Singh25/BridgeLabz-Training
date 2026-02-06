@@ -26,4 +26,16 @@
 * Practiced and pushed solutions on GitHub.
 * [View Code](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/design_pattern_practice/src/com/multithreading) 
 ---
-
+###  Day  4 - Multithreading Implementation
+**Date:** 5-Feb-2026
+* Practiced problems with the help of multithreading.
+* Learnt how to model real world problems in multithreading.
+* Implemented classes and interfaces and defined relation between them.
+* Explored problems such as:
+ >1. Banking system.
+ >2. Download manager.
+ >3. Restaurant Order Processing System
+ >4. Thread State Monitoring System
+* solved problems and pushed solution to the github.
+* View Code : [Multithreading ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/design_pattern_practice/src/com/multithreading) 
+---
