@@ -511,4 +511,12 @@ WEEK 7 : Java 8 features
 * solved problems and pushed solution to the github.
 * View Code : [Multithreading ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/design_pattern_practice/src/com/multithreading) 
 ---
+###  Day 5 - MySql  
+**Date:** 6-Feb-2026
+* Studied different types of databases.
+* Studied concepts of structured query languages.
+* Practiced queries of MySql.
+* Practiced and pushed solutions on GitHub.
+* View Code : [ MySql practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/design_pattern_practice/src/com/multithreading/practice) 
+---
 
