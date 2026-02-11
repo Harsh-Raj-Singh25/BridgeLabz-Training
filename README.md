@@ -25,3 +25,13 @@ WEEK 7 : Java 8 features
 * Practiced real-World problems and pushed solution to the repository.
 * View Code :  [Stream API ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com/stream_API)
 ---
+### Day 3 - Collectors.
+**Date:** 29-Jan-2026
+* Studied about Collectors.
+* Learnt the efficient use of Collectors.
+* Explored different terminal functions provided by Collectors in Java 8.
+* Practiced and pushed solutions to the repository.
+* Revised Last week concepts.
+* Attended meeting .
+* View Code :  [ Collectors ](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com/collectors)
+---
