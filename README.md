@@ -519,4 +519,11 @@
 * Practiced and pushed solutions on GitHub.
 * View Code : [ MySql practice](https://github.com/Harsh-Raj-Singh25/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/design_pattern_practice/src/com/multithreading/practice) 
 ---
+---
+## Week 9 :  SQL & JDBC
+---
 
+Day 4: JDBC practice
+* practiced scenario based questions on jdbc.
+* learnt how to use functionalities and interfaces.
+* attended weekly meeting.
