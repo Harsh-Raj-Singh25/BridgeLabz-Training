@@ -1,0 +1,153 @@
+/* Exercise 2: Transaction Management
+Implement a banking system with:
+• Transfer money between accounts (use transactions)
+• Check balance
+• Transaction history */
+
+mysql> create database banking_system
+    -> ;
+// o/p:-
+Query OK, 1 row affected (0.17 sec)
+
+mysql> use banking_system;
+// o/p:-
+Database changed
+
+
+mysql> create table Account(
+    -> name varchar(50) not null,
+    -> account_number INT Primary Key,
+    -> balance DECIMAL(12,2) );
+// o/p:-
+Query OK, 0 rows affected (0.16 sec)
+
+mysql> Insert Into Account (name, account_number, balance) VALUES
+    -> ('Anand', 542185, 547.25);
+// o/p:-
+Query OK, 1 row affected (0.02 sec)
+
+mysql> Insert Into Account (name, account_number, balance) VALUES
+    -> ('Harsh Raj',947852, 4896.45),
+    -> ('Namrata Khapre',789425, 7845211.04);
+// o/p:-
+Query OK, 2 rows affected (0.02 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+mysql> select * from account;
+
+// o/p:-
++----------------+----------------+------------+
+| name           | account_number | balance    |
++----------------+----------------+------------+
+| Anand          |         542185 |     547.25 |
+| Namrata Khapre |         789425 | 7845211.04 |
+| Harsh Raj      |         947852 |    4896.45 |
++----------------+----------------+------------+
+3 rows in set (0.02 sec)
+
+
+// check balance
+mysql> select balance from account where account_number=789425;
+// o/p:-
++------------+
+| balance    |
++------------+
+| 7845211.04 |
++------------+
+1 row in set (0.02 sec)
+
+mysql> BEGIN;
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> Update account SET balance = 47.25 where account_number=542185;
+Query OK, 1 row affected (0.02 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> SAVEPOINT sp1;
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> Update account SET balance = 5396.45 where account_number=947852;
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> select * from account;
++----------------+----------------+------------+
+| name           | account_number | balance    |
++----------------+----------------+------------+
+| Anand          |         542185 |      47.25 |
+| Namrata Khapre |         789425 | 7845211.04 |
+| Harsh Raj      |         947852 |    5396.45 |
++----------------+----------------+------------+
+3 rows in set (0.00 sec)
+
+mysql> ROLLBACK TO sp1;
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> select * from account;
++----------------+----------------+------------+
+| name           | account_number | balance    |
++----------------+----------------+------------+
+| Anand          |         542185 |      47.25 |
+| Namrata Khapre |         789425 | 7845211.04 |
+| Harsh Raj      |         947852 |    4896.45 |
++----------------+----------------+------------+
+3 rows in set (0.00 sec)
+
+mysql> COMMIT;
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> select * from account;
++----------------+----------------+------------+
+| name           | account_number | balance    |
++----------------+----------------+------------+
+| Anand          |         542185 |      47.25 |
+| Namrata Khapre |         789425 | 7845211.04 |
+| Harsh Raj      |         947852 |    4896.45 |
++----------------+----------------+------------+
+3 rows in set (0.00 sec)
+
+// TRANSACTIONS 
+
+mysql>
+mysql> BEGIN;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> SAVEPOINT sp2;
+Query OK, 0 rows affected (0.00 sec)
+
+// DEDUCTING 500 FROM ANAND
+mysql> Update account SET balance = 147.25 where account_number=542185;
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+// TRANSFERRING THAT 500 TO HARSH
+mysql> Update account SET balance = 5296.45 where account_number=947852;
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> select * from account;
++----------------+----------------+------------+
+| name           | account_number | balance    |
++----------------+----------------+------------+
+| Anand          |         542185 |     147.25 |
+| Namrata Khapre |         789425 | 7845211.04 |
+| Harsh Raj      |         947852 |    5296.45 |
++----------------+----------------+------------+
+3 rows in set (0.00 sec)
+
+// ROLLING BACK, THE WHOLE TRANSACTION
+mysql> ROLLBACK TO sp2;
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> select * from account;
++----------------+----------------+------------+
+| name           | account_number | balance    |
++----------------+----------------+------------+
+| Anand          |         542185 |      47.25 |
+| Namrata Khapre |         789425 | 7845211.04 |
+| Harsh Raj      |         947852 |    4896.45 |
++----------------+----------------+------------+
+3 rows in set (0.00 sec)
+
+
+
