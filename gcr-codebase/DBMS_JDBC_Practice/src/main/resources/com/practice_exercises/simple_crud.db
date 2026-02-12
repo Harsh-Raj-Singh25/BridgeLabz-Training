@@ -1,0 +1,108 @@
+# Exercise 1: Simple CRUD Application
+# Create a console-based Employee Management System with:
+# • Add employee
+# • View all employees
+# • Update employee salary
+# • Delete employee
+# • Search employee by name
+
+mysql> 
+create database Employee_System;
+
+# o/p :
+Query OK, 1 row affected (0.18 sec)
+
+mysql> 
+use Employee_System
+
+# o/p
+Database changed
+
+
+mysql> create table employee(
+    -> name VARCHAR(50) NOT NULL,
+    -> salary DECIMAL(10,2) NOT NULL,
+    -> department VARCHAR(40)
+    -> );
+
+# o/p
+Query OK, 0 rows affected (0.18 sec)
+
+mysql> 
+DESC employee;
+
+# o/p
++------------+---------------+------+-----+---------+-------+
+| Field      | Type          | Null | Key | Default | Extra |
++------------+---------------+------+-----+---------+-------+
+| name       | varchar(50)   | NO   |     | NULL    |       |
+| salary     | decimal(10,2) | NO   |     | NULL    |       |
+| department | varchar(40)   | YES  |     | NULL    |       |
++------------+---------------+------+-----+---------+-------+
+3 rows in set (0.06 sec)
+
+mysql> INSERT INTO employee (name, salary, department) VALUES
+    > INSERT INTO employee (name, salary, department) VALUES
+    -> ('Anand', 55000, 'Operations'),
+    -> ('Namrata', 60000, 'Technical'),
+    -> ('Sarthak',45000,'Logistics')
+    -> ;
+    
+# o/p
+
+Query OK, 3 rows affected (0.02 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+
+mysql> select * from employee;
+
+# o/p 
++---------+----------+------------+
+| name    | salary   | department |
++---------+----------+------------+
+| Anand   | 55000.00 | Operations |
+| Namrata | 60000.00 | Technical  |
+| Sarthak | 45000.00 | Logistics  |
++---------+----------+------------+
+3 rows in set (0.00 sec)
+
+
+mysql> UPDATE employee
+    -> SET salary = 80000
+    -> WHERE name = 'Sarthak';
+    
+# o/p
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> SELECT * FROM employee WHERE name = 'Sarthak';
+# o/p 
++---------+----------+------------+
+| name    | salary   | department |
++---------+----------+------------+
+| Sarthak | 80000.00 | Logistics  |
++---------+----------+------------+
+1 row in set (0.00 sec)
+
+mysql> delete from employee where name='Sarthak';
+# o/p :-
+Query OK, 1 row affected (0.02 sec)
+
+mysql> select * from employee;
+# o/p
++---------+----------+------------+
+| name    | salary   | department |
++---------+----------+------------+
+| Anand   | 55000.00 | Operations |
+| Namrata | 60000.00 | Technical  |
++---------+----------+------------+
+2 rows in set (0.00 sec)
+
+mysql> select * from employee where salary= 55000;
+# o/p :
+
++-------+----------+------------+
+| name  | salary   | department |
++-------+----------+------------+
+| Anand | 55000.00 | Operations |
++-------+----------+------------+
+1 row in set (0.06 sec)
