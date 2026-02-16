@@ -12,6 +12,7 @@ public class EmployeeSystemJDBC {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 
+		
 		while (true) {
 			System.out.println("\n--- Employee Management System ---");
 			System.out.println("1. Add Employee");
