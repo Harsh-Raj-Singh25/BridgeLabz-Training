@@ -527,3 +527,12 @@ Day 4: JDBC practice
 * practiced scenario based questions on jdbc.
 * learnt how to use functionalities and interfaces.
 * attended weekly meeting.
+
+###  Day 6 - PowerSkills Session -2  
+**Date:** 14-Feb-2026
+* Attended a powerskills session by BridgeLabz.
+* Got insights of the important concepts like: Parts of speech & Subject Verb Agreement.
+* Solved modules and submitted solutions. 
+---
+---
+
