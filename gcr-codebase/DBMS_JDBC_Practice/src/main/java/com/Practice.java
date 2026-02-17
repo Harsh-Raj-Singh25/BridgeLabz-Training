@@ -71,5 +71,8 @@ public class Practice {
             pstmt.executeUpdate();
             System.err.println("Account deleted!");
         } catch (SQLException e) { e.printStackTrace(); }
+        
+        
+    
 	}
 }
