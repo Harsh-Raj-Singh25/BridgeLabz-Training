@@ -22,7 +22,7 @@ public class ResumeAnalyzer {
 		File folder = new File(folderPath);
 		File[] files = folder.listFiles((dir, name) -> name.endsWith(".txt"));
 
-		if (files == null)
+		if (files == null )
 			return;
 
 		for (File file : files) {
